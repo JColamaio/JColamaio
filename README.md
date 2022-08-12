@@ -12,7 +12,7 @@
 
     I'm a Developer from Argentina.
 - 🔭 I’m currently working on my project [Alzacopas](https://alzacopa.herokuapp.com/)
-- 🕵 I’m currently learning **React**
+- 🕵 I’m currently learning **python**
 - 📫 How to reach me: jcolamaio@gmail.com <br>
 
 **Languages, Frameworks and Tools:**  &nbsp;
