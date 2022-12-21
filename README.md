@@ -8,22 +8,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-colamaio-aa0671184/) 
 
 
-### Web Developer Full Stack💻.
+### Backend Web Developer 💻.
 
     I'm a Developer from Argentina.
-- 🔭 I’m currently working on my project [Alzacopas](https://alzacopa.herokuapp.com/)
-- 🕵 I’m currently learning **python**
+- 🕵 I’m currently learning **typescript**
 - 📫 How to reach me: jcolamaio@gmail.com <br>
 
 **Languages, Frameworks and Tools:**  &nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
+![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=333)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fafafa)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fafafa)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=333)
+
 
 
 
