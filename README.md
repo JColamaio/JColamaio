@@ -29,7 +29,7 @@
 
 
 **:octocat: Github Statistics**
-<!-- <p>
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JColamaio&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JColamaio&layout=compact&theme=tokyonight"/>
-</p> -->
+</p>
