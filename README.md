@@ -8,10 +8,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-colamaio-aa0671184/) 
 
 
-### Backend Web Developer 💻.
+### Backend Developer 💻.
 
     I'm a Developer from Argentina.
-- 🕵 I’m currently learning **typescript**
+- 🕵 I’m currently learning **Go**
 - 📫 How to reach me: jcolamaio@gmail.com <br>
 
 **Languages, Frameworks and Tools:**  &nbsp;
