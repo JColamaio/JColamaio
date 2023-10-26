@@ -11,7 +11,7 @@
 ### Backend Developer 💻.
 
     I'm a Developer from Argentina.
-- 🕵 I’m currently learning **Go**
+- 🕵 I’m currently learning **Kubernetes**
 - 📫 How to reach me: jcolamaio@gmail.com <br>
 
 **Languages, Frameworks and Tools:**  &nbsp;
